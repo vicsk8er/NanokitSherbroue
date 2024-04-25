@@ -1,9 +1,4 @@
-// #ifndef UTILITY_H
-// #define UTILITY_H
 
-// bool timerFunctionThermo(unsigned long interval);
-// bool timerFunction(unsigned long Interval, unsigned long PreviousMillis);
-// #endif
 #ifndef UTILITY_H
 #define UTILITY_H
 
