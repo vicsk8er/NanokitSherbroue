@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "R6Magouille",
+			"path": "../../PlatformIO/Projects/R6Magouille"
+		}
+	],
+	"settings": {}
+}
